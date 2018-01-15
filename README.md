@@ -1,0 +1,8 @@
+# Fibonacci demonstration
+## This is a simple demonstration on how recursive algorithms do not scale when input increase. 
+
+There is an interface called Fibonacci and two implementing algorithms, one uses the classic recursive approach, the second one uses an ArrayList to store previous calculations and iterate over it in a linear loop. 
+
+It is provided a simple test case for each implementation, with the same inputs, and it is calculated the amount of time for executing them. 
+
+For this demonstration was calculated fibonacci of 50, which takes more than **one minute** for the recursive approach and **less than a millisecond** for the other approach. 
