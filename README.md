@@ -1,5 +1,6 @@
 # Fibonacci demonstration
-## This is a simple demonstration on how recursive algorithms do not scale when input increase. 
+## This is a simple demonstration on how recursive algorithms may not scale when input increase and how we can use dynamic programming (memoization) to improve performance 
+
 
 There is an interface called Fibonacci and two implementing algorithms, one uses the classic recursive approach, the second one uses an ArrayList to store previous calculations and iterate over it in a linear loop. 
 
