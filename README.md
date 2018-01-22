@@ -12,5 +12,5 @@ For this demonstration was calculated fibonacci of 50, which takes more than **o
 
 <p align='center'>
 <strong> If you liked this project, plesase live a ★ =). It will motivate me to improve this project further.<br/>
-Feel free to open <a href='https://github.com/dancosta/antsystem/issues'> issues</a>, even for questions! </strong>  
+Feel free to open <a href='https://github.com/dancosta/fibonaccidemo/issues'> issues</a>, even for questions! </strong>  
 </p>
